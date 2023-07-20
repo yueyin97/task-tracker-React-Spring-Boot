@@ -21,11 +21,11 @@ To run this project locally, you'll need to follow these steps:
 
 ## Credits
 
-This project was built by [Your Name Here](https://github.com/yourusername) using the following technologies:
+This project was built using the following technologies:
 
 - React
 - Spring Boot
-- MySQL
+- H2
 - Bootstrap
 
 ## License
